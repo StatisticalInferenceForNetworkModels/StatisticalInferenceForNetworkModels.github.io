@@ -1,0 +1,35 @@
+# main links
+main:
+  - title: Home
+    url: /
+  - title: Submit Abstract
+    url: https://www.easychair.org/conferences/?conf=sinm2020
+  # - title: Schedule
+    # url: /sinm2020/
+  - title: Invited Speakers
+    url: /invited/
+  - title: Contact
+    url: mailto:sinm2019@easychair.org
+  - title: 2019
+    url: /sinm2019/
+  # - title: 2018
+  #   url: /sinm2018/
+  # - title: 2017
+  #   url: /sinm2017/
+  # - title: 2016
+  #   url: /sinm2016/
+  # - title: 2015
+  #   url: /2015/
+  # - title: 2014
+  #   url: /sinm2014/
+
+sidebar-main:
+  - title: ""
+    children:
+      - title: "Submit Abstract"
+        url: https://www.easychair.org/conferences/?conf=sinm2020
+      - title: "Sample PDF"
+        url: /assets/pdf/SINM2018_paper_9.pdf
+      - title: "• Due April 13"
+      - title: "• Reviews April 30"
+      - title: "• Meeting July 6-7"

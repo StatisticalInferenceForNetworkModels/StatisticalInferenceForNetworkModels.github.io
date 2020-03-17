@@ -1,0 +1,70 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+html {
+  font-size: 13px; // change to whatever
+
+  @include breakpoint($medium) {
+    font-size: 14px; // change to whatever
+  }
+
+  @include breakpoint($large) {
+    font-size: 15px; // change to whatever
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 16px; // change to whatever
+  }
+}
+
+figure {
+    display: inline-block;
+    // border: 1px dotted gray;
+    margin: 0px 15px 0px 0px;
+}
+figure img {
+    vertical-align: top;
+    margin: 0px;
+}
+figure figcaption {
+    //border: 1px dotted blue;
+    text-align: center;
+    margin-bottom: 1em;
+    
+}
+img.thumb {
+	width: 200px;
+}
+
+circle.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+line.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+
+#chart {
+}
+#chartInfo {
+  text-align: center;
+  font-size: 12px;
+  width: 400px;
+}
+#chartContainer {
+  float: right;
+}
+@media screen and (max-width: 750px) {
+  #chartContainer {
+    visibility: hidden;
+    display: none;
+  }
+}
