@@ -11,17 +11,17 @@ main:
   - title: Contact
     url: mailto:sinm2019@easychair.org
   - title: 2019
-    url: /sinm2019/
-  # - title: 2018
-  #   url: /sinm2018/
-  # - title: 2017
-  #   url: /sinm2017/
-  # - title: 2016
-  #   url: /sinm2016/
-  # - title: 2015
-  #   url: /2015/
-  # - title: 2014
-  #   url: /sinm2014/
+    url: /assets/sinm2019/
+  - title: 2018
+    url: /assets/sinm2018/
+  - title: 2017
+    url: /assets/sinm2017/
+  - title: 2016
+    url: /assets/sinm2016/
+  - title: 2015
+    url: /assets/sinm2015/
+  - title: 2014
+    url: /assets/sinm2014/
 
 sidebar-main:
   - title: ""
