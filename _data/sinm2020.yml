@@ -3,11 +3,16 @@ categories:
     speakers:
     - name: Danai Koutra
       affiliation: University of Michigan
+      url: https://web.eecs.umich.edu/~dkoutra/
     - name: David Gleich
       affiliation: Purdue University
+      url: https://www.cs.purdue.edu/homes/dgleich/
     - name: Yves-Alexandre de Montjoye
       affiliation: Imperial College London
+      url: http://www.demontjoye.com/
     - name: Rose Yu
       affiliation: Northeastern University
+      url: https://www.khoury.northeastern.edu/people/rose-yu/
     - name: Cris Moore
       affiliation: Santa Fe Institute
+      url: http://tuvalu.santafe.edu/~moore/
