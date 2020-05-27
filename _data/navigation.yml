@@ -28,8 +28,8 @@ sidebar-main:
     children:
       - title: "Submit Abstract"
         url: https://www.easychair.org/conferences/?conf=sinm2020
-      # - title: "• Due April 13"
-      # - title: "• Reviews April 20"
-      # - title: "• Meeting July 6-7"
+      - title: "• Due July 8"
+      - title: "• Reviews July 21"
+      - title: "• Meeting TBD Sept 17-21"
       - title: "Sample PDF"
         url: /assets/pdf/SINM2018_paper_9.pdf
