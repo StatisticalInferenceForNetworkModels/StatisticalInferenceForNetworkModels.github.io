@@ -72,7 +72,7 @@ classes: wide
     <td class="tg-8bfz">10:05</td>
     <td class="tg-8bfz">16:05</td>
     <td class="tg-8bfz">Rose Yu</td>
-    <td class="tg-8bfz">INVITED</td>
+    <td class="tg-8bfz">Understanding Graph Neural Networks in Learning Network Topology and Dynamics</td>
   </tr>
   <tr>
     <td class="tg-lh7k">10:30</td>
