@@ -2,10 +2,10 @@
 main:
   - title: Home
     url: /
-  - title: Submit Abstract
-    url: https://www.easychair.org/conferences/?conf=sinm2020
-  # - title: Schedule
-    # url: /sinm2020/
+  # - title: Submit Abstract
+    # url: https://www.easychair.org/conferences/?conf=sinm2020
+  - title: Schedule
+    url: /sinm2020/
   - title: Invited Speakers
     url: /invited/
   - title: Contact
