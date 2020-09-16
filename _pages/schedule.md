@@ -131,7 +131,7 @@ classes: wide
   <tr>
     <td class="tg-8bfz">12:11</td>
     <td class="tg-8bfz">18:11</td>
-    <td class="tg-8bfz">Cris Moore</td>
+    <td class="tg-8bfz">Caterina De Bacco</td>
     <td class="tg-8bfz">INVITED: Interdependence Between Network Layers</td>
   </tr>
   <tr>

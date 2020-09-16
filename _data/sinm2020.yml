@@ -17,7 +17,7 @@ categories:
       url: http://roseyu.com/
       title: Understanding Graph Neural Networks in Learning Network Topology and Dynamics
       abstract: The surprising effectiveness of Graph Neural Networks (GNNs) has led to an explosion of interests in deep learning of networks, leading to applications from particle physics, to molecular biology to robotics. Despite their practical success, most GNNs are deployed as black boxes feature extractors for network data. It is not yet clear to what extent can these models capture different network features. I will discuss the representation power of GNNs to understand what can and cannot be learned.  I will showcase the practical implication of our analyses on tasks including distinguishing network models and learning network dynamics. 
-    - name: Cris Moore
+    - name: Caterina De Bacco
       title: Interdependence Between Network Layers
-      affiliation: Santa Fe Institute
-      url: http://tuvalu.santafe.edu/~moore/
+      affiliation: Max Planck Institute for Intelligent Systems
+      url: https://www.cdebacco.com/
