@@ -12,6 +12,8 @@ categories:
     - name: Yves-Alexandre de Montjoye
       affiliation: Imperial College London
       url: http://www.demontjoye.com/
+      title: Is it Proportional? Estimating the detrimental network effects of data collections
+      abstract: "Two of the most important privacy scandals of the last decade, the Snowden revelations and Cambridge Analytica, leveraged network effects: using the  connections between individuals to access their data. Similarly, contact tracing apps recording close proximity through bluetooth could enable large-scale surveillance. Despite this, the detrimental network effects in privacy have been largely ignored. We argue this has prevented informed discussions and debates on the proportionality of data collection mechanisms. In this talk, we will introduce a graph-theoretic privacy model to study and quantify node-intrusion attacks, as the fraction of a network that an attacker gains access to by compromising a number of random nodes. We will then, in turn, formalize our node and edge-based observability metrics, show important theoretical properties of our metrics relating an attacker’s success to the graph structure, and finally use them to study three node-intrusion attacks.
     - name: Rose Yu
       affiliation: UC San Diego
       url: http://roseyu.com/

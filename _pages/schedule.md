@@ -42,7 +42,7 @@ classes: wide
     <td class="tg-lh7k">8:30</td>
     <td class="tg-lh7k">14:30</td>
     <td class="tg-lh7k">Yves-Alexandre de Montjoye</td>
-    <td class="tg-lh7k">INVITED</td>
+    <td class="tg-lh7k">INVITED: Is it Proportional? Estimating the detrimental network effects of data collections</td>
   </tr>
   <tr>
     <td class="tg-lh7k">8:55</td>
