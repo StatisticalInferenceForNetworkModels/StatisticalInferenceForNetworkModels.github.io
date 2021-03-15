@@ -1,25 +1,21 @@
 categories:
   - heading: Invited Speakers
     speakers:
-    - name: Danai Koutra
-      affiliation: University of Michigan
-      url: https://web.eecs.umich.edu/~dkoutra/
-      title: Representation Learning Beyond Homophily and Proximity
-    - name: David Gleich
-      affiliation: Purdue University
-      url: https://www.cs.purdue.edu/homes/dgleich/
-      title: Flow-based Algorithms for Improving Clusters
-    - name: Yves-Alexandre de Montjoye
-      affiliation: Imperial College London
-      url: http://www.demontjoye.com/
-      title: Is it Proportional? Estimating the detrimental network effects of data collections
-      abstract: "Two of the most important privacy scandals of the last decade, the Snowden revelations and Cambridge Analytica, leveraged network effects: using the  connections between individuals to access their data. Similarly, contact tracing apps recording close proximity through bluetooth could enable large-scale surveillance. Despite this, the detrimental network effects in privacy have been largely ignored. We argue this has prevented informed discussions and debates on the proportionality of data collection mechanisms. In this talk, we will introduce a graph-theoretic privacy model to study and quantify node-intrusion attacks, as the fraction of a network that an attacker gains access to by compromising a number of random nodes. We will then, in turn, formalize our node and edge-based observability metrics, show important theoretical properties of our metrics relating an attacker’s success to the graph structure, and finally use them to study three node-intrusion attacks."
-    - name: Rose Yu
-      affiliation: UC San Diego
-      url: http://roseyu.com/
-      title: Understanding Graph Neural Networks in Learning Network Topology and Dynamics
-      abstract: The surprising effectiveness of Graph Neural Networks (GNNs) has led to an explosion of interests in deep learning of networks, leading to applications from particle physics, to molecular biology to robotics. Despite their practical success, most GNNs are deployed as black boxes feature extractors for network data. It is not yet clear to what extent can these models capture different network features. I will discuss the representation power of GNNs to understand what can and cannot be learned.  I will showcase the practical implication of our analyses on tasks including distinguishing network models and learning network dynamics. 
-    - name: Caterina De Bacco
-      title: Interdependence Between Network Layers
-      affiliation: Max Planck Institute for Intelligent Systems
-      url: https://www.cdebacco.com/
+    - name: Jesus Arroyo
+      affiliation: University of Maryland
+      url: https://jesus-arroyo.github.io/
+    - name: Catherine A . Calder
+      affiliation: University of Texas at Austin
+      url: https://cacalder.com/
+    - name: Eric D. Kolaczyk
+      affiliation: Boston University
+      url: https://sites.bu.edu/kolaczyk/
+    - name: Eleanor Power
+      affiliation: London School of Economics and Political Science
+      url: https://eapower.github.io/
+    - name: C. Seshadhri
+      affiliation: University of California, Santa Cruz 
+      url: https://users.soe.ucsc.edu/~sesh/
+
+#      title:
+#      abstract:
