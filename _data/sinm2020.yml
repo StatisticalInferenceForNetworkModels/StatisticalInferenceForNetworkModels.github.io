@@ -1,18 +1,22 @@
 categories:
   - heading: Invited Speakers
     speakers:
-    - name: Sen Pei
-      affiliation: Columbia University
-      url: http://www.columbia.edu/~sp3449/
-    - name: Tracy Sweet
-      affiliation: University of Maryland
-      url: https://education.umd.edu/directory/tracy-sweet
-    - name: Purnamrita Sarkar
-      affiliation: University of Texas at Austin
-      url: https://psarkar.github.io/
+
     - name: Homa Hosseinmardi
       affiliation: University of Pennsylvania
       url: https://homahm.github.io/
+    - name: Sen Pei
+      affiliation: Columbia University
+      url: http://www.columbia.edu/~sp3449/
+    - name: Martin Rosvall
+      affiliation: Umeå University
+      url: https://www.martinrosvall.com/
+    - name: Purnamrita Sarkar
+      affiliation: University of Texas at Austin
+      url: https://psarkar.github.io/
+    - name: Tracy Sweet
+      affiliation: University of Maryland
+      url: https://education.umd.edu/directory/tracy-sweet
     - name: Anru Zhang (unconfirmed)
       affiliation: Duke University
       url: https://anruzhang.github.io/
