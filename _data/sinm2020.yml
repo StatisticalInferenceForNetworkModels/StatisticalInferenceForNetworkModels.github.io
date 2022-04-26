@@ -1,21 +1,18 @@
 categories:
   - heading: Invited Speakers
     speakers:
-    - name: Jesus Arroyo
+    - name: Sen Pei
+      affiliation: Columbia University
+      url: http://www.columbia.edu/~sp3449/
+    - name: Tracy Sweet
       affiliation: University of Maryland
-      url: https://jesus-arroyo.github.io/
-    - name: Catherine A . Calder
+      url: https://education.umd.edu/directory/tracy-sweet
+    - name: Purnamrita Sarkar
       affiliation: University of Texas at Austin
-      url: https://cacalder.com/
-    - name: Eric D. Kolaczyk
-      affiliation: Boston University
-      url: https://sites.bu.edu/kolaczyk/
-    - name: Eleanor Power
-      affiliation: London School of Economics and Political Science
-      url: https://eapower.github.io/
-    - name: C. Seshadhri
-      affiliation: University of California, Santa Cruz 
-      url: https://users.soe.ucsc.edu/~sesh/
-
-#      title:
-#      abstract:
+      url: https://psarkar.github.io/
+    - name: Homa Hosseinmardi
+      affiliation: University of Pennsylvania
+      url: https://homahm.github.io/
+    - name: Anru Zhang (unconfirmed)
+      affiliation: Duke University
+      url: https://anruzhang.github.io/
