@@ -17,6 +17,6 @@ categories:
     - name: Tracy Sweet
       affiliation: University of Maryland
       url: https://education.umd.edu/directory/tracy-sweet
-    # - name: Anru Zhang (unconfirmed)
-    #   affiliation: Duke University
-    #   url: https://anruzhang.github.io/
+    - name: Anru Zhang
+      affiliation: Duke University
+      url: https://anruzhang.github.io/
