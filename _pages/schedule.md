@@ -17,7 +17,7 @@ classes: wide
 7:30 | 9:30 | 10:30 | 15:30 | 16:30 | 22:30 |  Purnamrita Sarkar | **INVITED** TBD
 8:00 | 10:00 | 11:00 | 16:00 | 17:00 | 23:00 | Anru Zhang | **INVITED** TBD
 8:30 | 10:30 | 11:30 | 16:30 | 17:30 | 23:30 | | Break
-8:40 | 10:40 | 11:40 | 16:40 | 17:40 | 23:40 | Homa Hosseinmardi | **INVITED** TBD
+8:40 | 10:40 | 11:40 | 16:40 | 17:40 | 23:40 | Homa Hosseinmardi | **INVITED**: Examining the consumption of radical content on YouTube
 9:10 | 11:10 | 12:10 | 17:10 | 18:10 | 0:10 | Till Hoffmann and Jukka-Pekka Onnela |  Information is localized in growing network models
 9:25 | 11:25 | 12:25 | 17:25 | 18:25 | 0:25 | Joshua Agterberg, Jesus Arroyo and Zachary Lubberts |  Community Detection in Multilayer Degree-Corrected Stochastic Blockmodels
 9:40 | 11:40 | 12:40 | 17:40 | 18:40 | 0:40 | | Break
