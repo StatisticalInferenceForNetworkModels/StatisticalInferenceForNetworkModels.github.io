@@ -14,7 +14,7 @@ classes: wide
 6:50 | 8:50 | 9:50 | 14:50 | 15:50 | 21:50 | Filippo Valle, Matteo Osella and Michele Caselle |  Multiomics topic modeling for Cancer Subtype Classification
 7:05 | 9:05 | 10:05 | 15:05 | 16:05 | 22:05 | Yangqi Zhang |  Estimation of Social Network Models using Approximate Bayesian Computation
 7:20 | 9:20 | 10:20 | 15:20 | 16:20 | 22:20 | | Break
-7:30 | 9:30 | 10:30 | 15:30 | 16:30 | 22:30 |  Purnamrita Sarkar | **INVITED** TBD
+7:30 | 9:30 | 10:30 | 15:30 | 16:30 | 22:30 |  Purnamrita Sarkar | **INVITED** Multiplier Bootstraps for Subgraph Counts
 8:00 | 10:00 | 11:00 | 16:00 | 17:00 | 23:00 | Anru Zhang | **INVITED** Statistical Optimality, Computational Limit, and Applications in Network Science
 8:30 | 10:30 | 11:30 | 16:30 | 17:30 | 23:30 | | Break
 8:40 | 10:40 | 11:40 | 16:40 | 17:40 | 23:40 | Homa Hosseinmardi | **INVITED**: Examining the consumption of radical content on YouTube
