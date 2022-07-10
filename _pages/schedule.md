@@ -10,7 +10,7 @@ classes: wide
 5:10 | 7:10 | 8:10 | 13:10 | 14:10 | 20:10 | Tracy Sweet | **INVITED** Modeling Social Networks with Multilevel Latent Variable Models
 5:40 | 7:40 | 8:40 | 13:40 | 14:40 | 20:40 | Sen Pei | **INVITED**: Inference of asymptomatic spreaders of infectious disease in complex networks
 6:10 | 8:10 | 9:10 | 14:10 | 15:10 | 21:10 | Break
-6:20 | 8:20 | 9:20 | 14:20 | 15:20 | 21:20 | Martin Rosvall | **INVITED**: How about Mapping flows on standard and higher-order networks with incomplete observations
+6:20 | 8:20 | 9:20 | 14:20 | 15:20 | 21:20 | Martin Rosvall | **INVITED**: Mapping flows on standard and higher-order networks with incomplete observations
 6:50 | 8:50 | 9:50 | 14:50 | 15:50 | 21:50 | Filippo Valle, Matteo Osella and Michele Caselle |  Multiomics topic modeling for Cancer Subtype Classification
 7:05 | 9:05 | 10:05 | 15:05 | 16:05 | 22:05 | Yangqi Zhang |  Estimation of Social Network Models using Approximate Bayesian Computation
 7:20 | 9:20 | 10:20 | 15:20 | 16:20 | 22:20 | | Break
