@@ -3,13 +3,15 @@ main:
   - title: Home
     url: /
   - title: Submit Abstract
-    url: https://www.easychair.org/conferences/?conf=sinm2022
+    url: https://www.easychair.org/conferences/?conf=sinm2023
   - title: Schedule
-    url: /sinm2022/
+    url: /sinm2023/
   - title: Invited Speakers
     url: /invited/
   - title: Contact
-    url: mailto:sinm2022@easychair.org
+    url: mailto:sinm2023@easychair.org
+  - title: 2022
+    url: /assets/sinm2022/
   - title: 2021
     url: /assets/sinm2021/
   - title: 2020
@@ -31,9 +33,9 @@ sidebar-main:
   - title: ""
     children:
       - title: "Submit Abstract"
-        url: https://www.easychair.org/conferences/?conf=sinm2022
+        url: https://www.easychair.org/conferences/?conf=sinm2023
       - title: "• Due June 10"
       - title: "• Reviews June 17"
-      - title: "• Meeting July 12"
+      - title: "• Meeting July 11"
       - title: "Sample PDF"
         url: /assets/pdf/SINM2018_paper_9.pdf
