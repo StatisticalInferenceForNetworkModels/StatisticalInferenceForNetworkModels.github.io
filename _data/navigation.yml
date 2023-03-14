@@ -3,7 +3,7 @@ main:
   - title: Home
     url: /
   - title: Submit Abstract
-    url: https://www.easychair.org/conferences/?conf=sinm2023
+    url: mailto:submissions@sinm.network
   - title: Schedule
     url: /sinm2023/
   - title: Invited Speakers
@@ -33,9 +33,9 @@ sidebar-main:
   - title: ""
     children:
       - title: "Submit Abstract"
-        url: https://www.easychair.org/conferences/?conf=sinm2023
-      - title: "• Due June 10"
-      - title: "• Reviews June 17"
+        url: mailto:submissions@sinm.network
+      - title: "• Due May 15"
+      - title: "• Reviews May 22"
       - title: "• Meeting July 11"
       - title: "Sample PDF"
         url: /assets/pdf/SINM2018_paper_9.pdf
