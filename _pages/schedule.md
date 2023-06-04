@@ -3,7 +3,9 @@ title: SINM 2023 Schedule
 permalink: /sinm2023/
 classes: wide
 
----| Time (CET) | Speaker | Title | Talk Type |
+---
+
+| Time (CET) | Speaker | Title | Talk Type |
 | ---------- | ----------- | ----------- | ----------- |
 | 9:00 |  | Welcome |  |
 | 9:10 | Leto Peel | Statistical inference links data and theory in network science | Invited |
