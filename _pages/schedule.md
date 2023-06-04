@@ -5,7 +5,7 @@ classes: wide
 
 ---
 
-| Time (CET) | Speaker | Title | Talk Type |
+| Time | Speaker | Title | Talk Type |
 | ---------- | ----------- | ----------- | ----------- |
 | 9:00 |  | Welcome |  |
 | 9:10 | Leto Peel | Statistical inference links data and theory in network science | Invited |
