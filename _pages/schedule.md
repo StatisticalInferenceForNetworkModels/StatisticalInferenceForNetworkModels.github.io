@@ -13,7 +13,7 @@ classes: wide
 | 10:30 | | *Coffee*  | |
 | 11:00 | Marion Hoffman | Modeling partitions of individuals | Invited |
 | 11:40 | Till A Hoffmann | Latent Space Approaches to Aggregate Relational Data | Flash ⚡ |
-| 11:50 | Sahil Loomba and Johannes Happenhofer (team) | Inferring socio-physical networks and social Gini indices from aggregated data | Contributed |
+| 11:50 | Sahil Loomba and Johannes Happenhofer | Inferring socio-physical networks and social Gini indices from aggregated data | Contributed |
 | 12:10 | Luis Rocha | Redundancy in the Structure and Causal Logic of Interactions Shapes the Dynamics of Social and Biochemical Networks | Contributed |
 | 12:30 | | *Lunch*  | |
 | 14:00 | Marianna Pensky | TBA | Invited |
@@ -22,5 +22,5 @@ classes: wide
 | 15:10 | Anatol Wegner | Non-parametric inference of link communities | Contributed |
 | 15:30 | | *Coffee*  | |
 | 16:00 | Kiran Tomlinson | TBA | Invited |
-| 16:40 | Alexis BENICHOU | Compression-based inference of network motif sets | Contributed |
+| 16:40 | Alexis Benichou | Compression-based inference of network motif sets | Contributed |
 | 17:00 | All invited speakers | Panel |  |
