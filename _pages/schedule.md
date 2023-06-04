@@ -23,4 +23,4 @@ classes: wide
 | 15:30 | | *Coffee*  | |
 | 16:00 | Kiran Tomlinson | TBA | Invited |
 | 16:40 | Alexis BENICHOU | Compression-based inference of network motif sets | Contributed |
-| 17:00 | Panelists | Confirmed panelists: Leto Peel, Marion Hoffman | Contributed |
+| 17:00 | Panelists | Confirmed panelists: Leto Peel, Marion Hoffman |  |
