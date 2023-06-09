@@ -21,6 +21,6 @@ classes: wide
 | 14:50 | Maximilian Jerdee | Normalized Mutual Information for Classification and Community Detection | Contributed |
 | 15:10 | Anatol Wegner | Non-parametric Inference of Link Communities | Contributed |
 | 15:30 | | *Coffee*  | |
-| 16:00 | Kiran Tomlinson | TBA | Invited |
+| 16:00 | Kiran Tomlinson | Choice in Networks | Invited |
 | 16:40 | Louis Boucherie | Adaptive Cut Reveals Multiscale Complexity In Networks | Contributed |
 | 17:00 | All invited speakers | Panel |  |
