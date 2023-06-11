@@ -32,10 +32,6 @@ main:
 sidebar-main:
   - title: ""
     children:
-      - title: "Submit Abstract"
-        url: mailto:submissions@sinm.network
-      - title: "• Due May 15"
-      - title: "• Reviews May 22"
-      - title: "• Meeting July 11"
-      - title: "Sample PDF"
-        url: /assets/pdf/SINM2018_paper_9.pdf
+      - title: "July 11th, 2023"
+      - title: "Schedule"
+        url: /sinm2023/
