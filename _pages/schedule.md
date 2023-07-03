@@ -14,7 +14,7 @@ classes: wide
 | 11:00 | Marion Hoffman | Modeling Partitions Of Individuals | Invited |
 | 11:40 | Till A Hoffmann | Latent Space Approaches to Aggregate Relational Data | Flash ⚡ |
 | 11:50 | Sahil Loomba and Johannes Happenhofer | Inferring Socio-physical Networks and Social Gini Indices From Aggregated Data | Contributed |
-| 12:10 | Luis Rocha | Redundancy in the Structure and Causal Logic of Interactions Shapes the Dynamics of Social and Biochemical Networks | Contributed |
+| 12:10 | Luis Rocha | Redundancy in the Causal Logic of Interactions Shapes the Dynamics of Social Biochemical Networks | Contributed |
 | 12:30 | | *Lunch*  | |
 | 14:00 | Marianna Pensky | Clustering of Diverse Multiplex Networks | Invited |
 | 14:40 | Samin Aref | Heuristic Modularity Maximization Algorithms for Network Clustering Rarely Return an Optimal Partition or Anything Similar | Flash ⚡ |
