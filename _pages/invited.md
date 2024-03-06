@@ -1,5 +1,5 @@
 ---
-title: SINM 2023 Invited Speakers
+title: SINM 2024 Invited Speakers
 permalink: /invited/
 classes: wide
 ---
