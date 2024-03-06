@@ -2,18 +2,12 @@ categories:
   - heading: Invited Speakers
     speakers:
 
-    - name: Leto Peel
-      affiliation: Maastricht University
-      url: https://piratepeel.github.io/
-    - name: Marion Hoffman
-      affiliation: "Institute For Advanced Study in Toulouse: IAST"
-      url: https://www.iast.fr/people/marion-hoffman
-    - name: Kiran Tomlinson
-      affiliation: Cornell
-      url: https://www.cs.cornell.edu/~kt/
-    - name: Vince Lyzinski
-      affiliation: University of Maryland
-      url: https://www.math.umd.edu/~vlyzinsk/
-    - name: Marianna Pensky
-      affiliation: Univerity of Florida
-      url: https://sciences.ucf.edu/math/mpensky/
+    - name: Roger Guimerà
+      affiliation: Universitat Rovira i Virgili
+      url: http://seeslab.info/researchers/guimera/
+    - name: Matthew Eichhorn
+      affiliation: Cornell University
+      url: https://maeichho.github.io/
+    - name: Zachary Lubberts
+      affiliation: University of Virginia
+      url: https://sites.google.com/view/zachary-lubberts
