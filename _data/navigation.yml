@@ -5,11 +5,13 @@ main:
   - title: Submit Abstract
     url: mailto:submissions@sinm.network
   - title: Schedule
-    url: /sinm2023/
+    url: /sinm2024/
   - title: Invited Speakers
     url: /invited/
   - title: Contact
-    url: mailto:sinm2023@easychair.org
+    url: mailto:submissions@sinm.network
+  - title: 2023
+    url: /assets/sinm2023/
   - title: 2022
     url: /assets/sinm2022/
   - title: 2021
@@ -32,6 +34,6 @@ main:
 sidebar-main:
   - title: ""
     children:
-      - title: "July 11th, 2023"
+      - title: "June 17th, 2024"
       - title: "Schedule"
-        url: /sinm2023/
+        url: /sinm2024/
