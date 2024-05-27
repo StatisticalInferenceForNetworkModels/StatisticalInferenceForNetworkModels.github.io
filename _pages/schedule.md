@@ -5,24 +5,21 @@ classes: wide
 
 ---
 
-TBD
-
-<!-- | Time | Speaker | Title | Talk Type | -->
-<!-- | ---------- | ----------- | ----------- | ----------- | -->
-<!-- | 9:00 |  | Welcome |  | -->
-<!-- | 9:10 | Leto Peel | Statistical Inference Links Data and Theory in Network Science | Invited | -->
-<!-- | 9:50 | Vince Lyzinski | Lost in the Shuffle: Testing Power in the Presence of Errorful Network Vertex Labels | Invited | -->
-<!-- | 10:30 | | *Coffee*  | | -->
-<!-- | 11:00 | Marion Hoffman | Modeling Partitions Of Individuals | Invited | -->
-<!-- | 11:40 | Till A Hoffmann | Latent Space Approaches to Aggregate Relational Data | Flash ⚡ | -->
-<!-- | 11:50 | Sahil Loomba and Johannes Happenhofer | Inferring Socio-physical Networks and Social Gini Indices From Aggregated Data | Contributed | -->
-<!-- | 12:10 | Luis Rocha | Redundancy in the Causal Logic of Interactions Shapes the Dynamics of Social Biochemical Networks | Contributed | -->
-<!-- | 12:30 | | *Lunch*  | | -->
-<!-- | 14:00 | Marianna Pensky | Clustering of Diverse Multiplex Networks | Invited | -->
-<!-- | 14:40 | Samin Aref | Heuristic Modularity Maximization Algorithms for Network Clustering Rarely Return an Optimal Partition or Anything Similar | Flash ⚡ | -->
-<!-- | 14:50 | Maximilian Jerdee | Normalized Mutual Information for Classification and Community Detection | Contributed | -->
-<!-- | 15:10 | Anatol Wegner | Non-parametric Inference of Link Communities | Contributed | -->
-<!-- | 15:30 | | *Coffee*  | | -->
-<!-- | 16:00 | Kiran Tomlinson | Choice in Networks | Invited | -->
-<!-- | 16:40 | Louis Boucherie | Adaptive Cut Reveals Multiscale Complexity In Networks | Contributed | -->
-<!-- | 17:00 | All invited speakers | Panel |  | -->
+|Duration|Start|Finish|Speaker               |Title                                                                                    |Type       |
+|--------|-----|------|----------------------|-----------------------------------------------------------------------------------------|-----------|
+|10      |09:00|09:10 |                      |**Welcome**                                                                              |           |
+|20      |09:10|09:30 |Leto Peel             |Detectability of Minority Communities in Networks                                        |Contributed|
+|20      |09:30|09:50 |Alina Dubovskaya      |A mathematically tractable model for information diffusion between communities           |Contributed|
+|20      |09:50|10:10 |Alex Shestapoloff     |The δ test, a statistical test to assess clusterability                                  |Contributed|
+|20      |10:10|10:30 |Francesca Giuffrida   |Effects of ensemble non-equivalence on network model selection                           |Contributed|
+|        |10:30|11:00 |                      |**COFFEE (time fixed by organizers)**                                                    |Contributed|
+|45      |11:00|11:45 |Zachary Lubberts      |Joint Spectral Clustering in Multilayer Degree-Corrected Stochastic Blockmodels          |Invited    |
+|45      |11:45|12:30 |Alec Hayes            |Estimating network-mediated causal effects via spectral embeddings                       |Invited    |
+|        |12:30|14:00 |                      |**LUNCH (time fixed by organizers)**                                                     |Contributed|
+|20      |14:00|14:20 |Changqing Cheng       |Sparse Bayesian Learning for Sequential Inference of Network Connectivity from Small Data|Contributed|
+|20      |14:20|14:40 |Filippo Zimmaro       |Ferromagnetic Ising model on multiregular random graphs                                  |Contributed|
+|45      |14:40|15:25 |Roger Guimera         |TBD                                                                                      |Invited    |
+|45      |15:25|16:10 |Matthew Eichhorn      |Causal Inference under Low-Order Interference                                            |Invited    |
+|        |16:00|16:30 |                      |**COFFEE (time fixed by organizers)**                                                    |Contributed|
+|45      |16:30|17:15 |Giovanni Petri        |TBD                                                                                      |Invited    |
+|30      |17:15|17:45 |All invited spearkers |Discussion panel                                                                         |Invited    |
