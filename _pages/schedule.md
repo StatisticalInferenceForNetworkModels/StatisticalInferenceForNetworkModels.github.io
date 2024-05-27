@@ -21,5 +21,5 @@ classes: wide
 |45      |14:40|15:25 |Roger Guimera         |TBD                                                                                      |Invited    |
 |45      |15:25|16:10 |Matthew Eichhorn      |Causal Inference under Low-Order Interference                                            |Invited    |
 |        |16:00|16:30 |                      |**COFFEE (time fixed by organizers)**                                                    |           |
-|45      |16:30|17:15 |Giovanni Petri        |TBD                                                                                      |Invited    |
+|45      |16:30|17:15 |Giovanni Petri        |A Higher-Order Lens for Social Systems                                                   |Invited    |
 |30      |17:15|17:45 |All invited spearkers |Discussion panel                                                                         |Invited    |
