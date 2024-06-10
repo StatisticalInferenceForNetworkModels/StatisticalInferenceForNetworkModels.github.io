@@ -14,7 +14,7 @@ classes: wide
 |20      |10:10|10:30 |Francesca Giuffrida   |Effects of ensemble non-equivalence on network model selection                           |Contributed|
 |        |10:30|11:00 |                      |**COFFEE (time fixed by organizers)**                                                    |           |
 |45      |11:00|11:45 |Zachary Lubberts      |Joint Spectral Clustering in Multilayer Degree-Corrected Stochastic Blockmodels          |Invited    |
-|45      |11:45|12:30 |Alec Hayes            |Estimating network-mediated causal effects via spectral embeddings                       |Invited    |
+|45      |11:45|12:30 |Alex Hayes            |Estimating network-mediated causal effects via spectral embeddings                       |Invited    |
 |        |12:30|14:00 |                      |**LUNCH (time fixed by organizers)**                                                     |           |
 |20      |14:00|14:20 |Raunak Dey            |Multimodal inference in virus-host infection networks from population dynamics           |Contributed|
 |20      |14:20|14:40 |Filippo Zimmaro       |Ferromagnetic Ising model on multiregular random graphs                                  |Contributed|
