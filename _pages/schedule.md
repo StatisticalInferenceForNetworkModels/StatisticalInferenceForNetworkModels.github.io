@@ -18,7 +18,7 @@ classes: wide
 |        |12:30|14:00 |                      |**LUNCH (time fixed by organizers)**                                                     |           |
 |20      |14:00|14:20 |Raunak Dey            |Multimodal inference in virus-host infection networks from population dynamics           |Contributed|
 |20      |14:20|14:40 |Filippo Zimmaro       |Ferromagnetic Ising model on multiregular random graphs                                  |Contributed|
-|45      |14:40|15:25 |Roger Guimera         |TBD                                                                                      |Invited    |
+|45      |14:40|15:25 |Roger Guimera         |Network inference for new problems: Network alignment and machine science                |Invited    |
 |45      |15:25|16:10 |Matthew Eichhorn      |Causal Inference under Low-Order Interference                                            |Invited    |
 |        |16:00|16:30 |                      |**COFFEE (time fixed by organizers)**                                                    |           |
 |45      |16:30|17:15 |Giovanni Petri        |A Higher-Order Lens for Social Systems                                                   |Invited    |
