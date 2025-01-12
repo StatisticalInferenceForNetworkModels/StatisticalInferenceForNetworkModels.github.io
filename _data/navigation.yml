@@ -10,6 +10,8 @@ main:
     url: /invited/
   - title: Contact
     url: mailto:submissions@sinm.network
+  - title: 2024
+    url: /assets/sinm2024/
   - title: 2023
     url: /assets/sinm2023/
   - title: 2022
@@ -36,4 +38,4 @@ sidebar-main:
     children:
       - title: "June 17, 2024"
       - title: "Schedule"
-        url: /sinm2024/
+        url: /sinm2025/
