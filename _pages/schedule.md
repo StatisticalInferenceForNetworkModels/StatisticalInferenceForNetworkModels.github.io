@@ -1,6 +1,6 @@
 ---
 title: SINM 2025 Schedule
-permalink: /sinm2024/
+permalink: /sinm2025/
 classes: wide
 
 ---
