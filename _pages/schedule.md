@@ -29,5 +29,4 @@ classes: wide
 | **16:00-16:30** | **Coffee Break**                                                 |                    |             |
 | 16:30-16:50| CoCoGraph: A collaborative constrained graph diffusion model for the generation of graphs with fixed degree sequences | Manuel Ruiz Botella | Contributed |
 | 16:50-17:30| TBD                                                                  | Vince Lyzinski     | Invited     |
-| 17:30-18:10| TBD                                                                  | Michael Schaub     | Invited     |
-| 18:10-18:30| Panel + Q&A                                                          | All Invited Speakers |           |
+| 17:30-17:50| Panel + Q&A                                                           | All Invited Speakers     |      |
