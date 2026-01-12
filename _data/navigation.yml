@@ -10,6 +10,8 @@ main:
     url: /invited/
   - title: Contact
     url: mailto:submissions@sinm.network
+  - title: 2025
+    url: /assets/sinm2025/
   - title: 2024
     url: /assets/sinm2024/
   - title: 2023
