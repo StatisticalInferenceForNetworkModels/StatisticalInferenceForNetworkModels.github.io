@@ -1,33 +1,311 @@
----
-title: "Statistical Inference for Network Models"
-excerpt: "A NetSci 2025 Satellite Symposium"
-layout: single
-permalink: /
-sidebar:
-  title: "Key Links"
-  nav: sidebar-main
-header:
-    overlay_color: "#000"
-    overlay_filter: "0.0"
-    overlay_image: /assets/images/maastricht.jpg
----
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.17.0 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Statistical Inference for Network Models - SINM</title>
+<meta name="description" content="A NetSci 2024 Satellite Symposium">
+
+
+  <meta name="author" content="Your Name">
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="SINM">
+<meta property="og:title" content="Statistical Inference for Network Models">
+<meta property="og:url" content="http://localhost:4000/">
+
+
+  <meta property="og:description" content="A NetSci 2024 Satellite Symposium">
+
+
+
+  <meta property="og:image" content="http://localhost:4000/assets/images/quebec.jpg">
+
+
+
+
+
+
+
+
 
   
 
-<div>
+  
+
+
+<link rel="canonical" href="http://localhost:4000/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "",
+      "url": "http://localhost:4000/"
+    
+  }
+</script>
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="SINM Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#ffc40d">
+<meta name="theme-color" content="#ffffff">
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/assets/images/masthead.png" alt=""></a>
+        
+        <a class="site-title" href="/">
+          SINM
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/" >Home</a>
+            </li><li class="masthead__menu-item">
+              <a href="mailto:submissions@sinm.network" >Submit Abstract</a>
+            </li><li class="masthead__menu-item">
+              <a href="/sinm2024/" >Schedule</a>
+            </li><li class="masthead__menu-item">
+              <a href="/invited/" >Invited Speakers</a>
+            </li><li class="masthead__menu-item">
+              <a href="mailto:submissions@sinm.network" >Contact</a>
+            </li><li class="masthead__menu-item">
+              <a href="/assets/sinm2024/" >2024</a>
+            </li><li class="masthead__menu-item">
+              <a href="/assets/sinm2023/" >2023</a>
+            </li><li class="masthead__menu-item">
+              <a href="/assets/sinm2022/" >2022</a>
+            </li><li class="masthead__menu-item">
+              <a href="/assets/sinm2021/" >2021</a>
+            </li><li class="masthead__menu-item">
+              <a href="/assets/sinm2020/" >2020</a>
+            </li><li class="masthead__menu-item">
+              <a href="/assets/sinm2019/" >2019</a>
+            </li><li class="masthead__menu-item">
+              <a href="/assets/sinm2018/" >2018</a>
+            </li><li class="masthead__menu-item">
+              <a href="/assets/sinm2017/" >2017</a>
+            </li><li class="masthead__menu-item">
+              <a href="/assets/sinm2016/" >2016</a>
+            </li><li class="masthead__menu-item">
+              <a href="/assets/sinm2015/" >2015</a>
+            </li><li class="masthead__menu-item">
+              <a href="/assets/sinm2014/" >2014</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+  
+
+
+
+
+
+
+
+
+
+
+
+<div class="page__hero--overlay"
+  style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('/assets/images/quebec.jpg');"
+>
+  
+    <div class="wrapper">
+      <h1 id="page-title" class="page__title" itemprop="headline">
+        
+          Statistical Inference for Network Models
+
+        
+      </h1>
+      
+        <p class="page__lead">A NetSci 2024 Satellite Symposium
+</p>
+      
+      
+      
+      
+    </div>
+  
+  
+</div>
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+      
+      
+      
+    
+      
+      
+      
+      
+    
+    
+      
+
+<nav class="nav__list">
+  <h3 class="nav__title" style="padding-left: 0;">Key Links</h3>
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <span class="nav__sub-title"></span>
+        
+
+        
+        <ul>
+          
+            
+            
+              <li>June 17, 2024</li>
+            
+          
+            
+            
+              
+
+              
+              
+
+              <li><a href="/sinm2024/" class="">Schedule</a></li>
+            
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+    
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Statistical Inference for Network Models">
+    <meta itemprop="description" content="A NetSci 2024 Satellite Symposium">
+    
+    
+
+    <div class="page__inner-wrap">
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <div>
 <p><h1>Welcome</h1>
 
 The <strong>Statistical Inference for Network Models</strong> symposium is a
-satellite of the <a href="https://netsci2025.github.io/">NetSci
-2025 conference</a>. SINM2025 will be held <strong>onsite on June 3rd,
-2025</strong> as a fully-day event in Maastricht, Netherlands. SINM will feature a mix of invited and
+satellite of the <a href="https://netsci2024.com">NetSci
+2024 conference</a>. SINM2024 will be held <strong>onsite on June 17th,
+2024</strong> as a fully-day event in Québec, Canada. SINM will feature a mix of invited and
 contributed talks. 
-All attendees of this symposium must be registered for the <a href="https://netsci2025.github.io/" target="_blank"
-title="">NetSci 2025 conference</a> to attend.
+All attendees of this symposium must be registered for the <a href="https://netsci2024.com" target="_blank"
+title="">NetSci 2024 conference</a> to attend.
 
 <p><h1>Call for Abstracts</h1>
 
-The deadline for abstract submission is <strong>February 20, 2025</strong>, and acceptance notifications will be sent soon afterwards.
+The deadline for abstract submission is <strong>April 17, 2024</strong>, and acceptance notifications will be sent by April 30th.
 <em>There will be no published proceedings for this satellite.</em>
 
 Submit your abstract by email at <a href="mailto:submissions@sinm.network">submissions@sinm.network</a>, and see the  <a href="#instructions">requirements below</a>. 
@@ -63,36 +341,119 @@ We invite abstracts of new and/or previously published work for contributed talk
     <li>1-page maximum, PDF format.</li>
     <li>PDF may contain a figure.</li>
     <li><font color="red">Please remove all author names and affiliations from the abstract. Reviews will be double-blind.</font></li>
-    <li>The deadline is February 20, 2025.</li>
+    <li>The deadline is April 17, 2024.</li>
 </ul>
-All abstracts will be considered for contributed talks; currently, we expect that there will be no posters for SINM 2025. Submit by sending the abstract to <a href="mailto:submissions@sinm.network">submissions@sinm.network</a>.
+All abstracts will be considered for contributed talks; currently, we expect that there will be no posters for SINM 2024. Submit by sending the abstract to <a href="mailto:submissions@sinm.network">submissions@sinm.network</a>.
 
 <p><h1>Symposium Details</h1>
 
-<p>This satellite focuses on the development and application of statistical inference tools for networks. It addresses intersecting trends, whereby network data, hypotheses about network structure, and the processes that create those patterns are increasingly sophisticated. Statistical inference for network models offers a principled and effective approach for understanding and testing such richly annotated network data and network hypotheses. 
+<p>This satellite focuses on the development and application of statistical inference tools for networks. It addresses intersecting trends, whereby network data, hypotheses about network structure, and the processes that create those patterns are increasingly sophisticated. Statistical inference for network models offers a principled and effective approach for understanding and testing such richly annotated network data and network hypotheses.
 
-<p>This 12th anniversary of the SINM satellite symposium will be a unique occasion to reflect on the progress and achievements that have been made in the field of statistical inference in network science over the past decade. The development of new tools and their application for understanding real systems is now a major community effort in network science. Increasingly, new applications and richer data sets offer new opportunities for developing and applying the principled techniques of statistical inference to networks. In this spirit, SINM aims brings together theoretical and applied researchers from across network science, including machine learning, statistics, social network analysis, and physics. This broad cross-section of disciplines shares problems and even approaches, but each discipline brings a different perspective, emphasis, and vocabulary.
+<p>This 10th anniversary of the SINM satellite symposium will be a unique occasion to reflect on the progress and achievements that have been made in the field of statistical inference in network science over the past decade. The development of new tools and their application for understanding real systems is now a major community effort in network science. Increasingly, new applications and richer data sets offer new opportunities for developing and applying the principled techniques of statistical inference to networks. In this spirit, SINMaims brings together theoretical and applied researchers from across network science, including machine learning, statistics, social network analysis, and physics. This broad cross-section of disciplines shares problems and even approaches, but each discipline brings a different perspective, emphasis, and vocabulary.
 
-<p>This satellite symposium will build on eleven successful previous satellites by uniting theoretical and applied researchers, bringing together approaches from across network science, including machine learning, statistics, and physics. This broad cross-section of disciplines shares problems and even approaches, but each discipline brings a different perspective, emphasis and vocabulary. The purpose of this symposium is to provide a platform for cross-pollination of ideas and promote interdisciplinary interactions which leverage the diversity of approaches to a common set of problems.<br><br>
+<p>This satellite symposium will build on nine successful previous satellites at <a href="/sinm2014/">NetSci2014</a>, <a href="/sinm2015/">NetSci2015</a>, <a href="/sinm2016/">NetSci2016</a>, <a href="/sinm2017/">NetSci2017</a>, <a href="/sinm2018/">NetSci2018</a>, <a href="/sinm2019/">NetSci2019</a>, <a href="/sinm2020/">NetSci2020</a>, <a href="/sinm2021/">Networks 2021</a>, <a href="/sinm2022/">NetSci 2022</a>, and <a href="/sinm2023/">NetSci 2023</a> by uniting theoretical and applied researchers, bringing together approaches from across network science, including machine learning, statistics, and physics. This broad cross-section of disciplines shares problems and even approaches, but each discipline brings a different perspective, emphasis and vocabulary. The purpose of this symposium is to provide a platform for cross-pollination of ideas and promote interdisciplinary interactions which leverage the diversity of approaches to a common set of problems.<br><br>
 
 <em>There will be no published proceedings for this satellite.</em>
 
 <p><h1>Invited Speakers</h1>
 
 <ul>
-  <li><strong><a href="https://www.george-cantwell.com/">George Cantwell</a></strong>, <strong>University of Cambridge</strong>
+   <li><strong><a href="http://seeslab.info/researchers/guimera/">Roger Guimerà</a></strong>, <strong>Universitat Rovira i Virgili</strong>
    </li>
-  <li><strong><a href="https://www.math.umd.edu/~vlyzinsk/">Vince Lyzinski</a></strong>, <strong>University of Maryland</strong>
+   <li><strong><a href="https://maeichho.github.io/">Matthew Eichhorn</a></strong>, <strong>Cornell University</strong>
    </li>
-  <li><strong><a href="https://www.cmu.edu/dietrich/statistics-datascience/people/faculty/nynke-niezink.html">Nynke Niezink</a></strong>, <strong>Carnegie Mellon University</strong>
+   <li><strong><a href="https://sites.google.com/view/zachary-lubberts">Zachary Lubberts</a></strong>, <strong>University of Virginia</strong>
+   </li>
+   <li><strong><a href="https://www.alexpghayes.com/">Alex Hayes</a></strong>, <strong>University of Wisconsin-Madison</strong>
    </li>
 </ul>
 
 <p><h1>Organizers</h1>
 <ul>
 <li><a href="https://engineering.jhu.edu/ams/faculty/avanti-athreya/">Avanti Athreya</a>, Johns Hopkins University</li>
-<li><a href="https://www.cdebacco.com/">Caterina de Bacco</a>, TU Delft</li>
+<li><a href="https://www.cdebacco.com/">Caterina de Bacco</a>, Max Planck Institute for Intelligent Systems</li>
 <li><a href="https://aleckirkley.com/">Alec Kirkley</a>, University of Hong Kong</li>
 <li><a href="https://rslunde.github.io/">Robert Lunde</a>, Washington University in St. Louis</li>
+<li><a href="https://skewed.de/tiago">Tiago P. Peixoto</a>, Central European University</li>
 </ul>
 </div>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+      </footer>
+
+      
+
+      
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <!-- <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+
+    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div> -->
+
+
+<div class="page__footer-copyright">&copy; 2025 SINM. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
