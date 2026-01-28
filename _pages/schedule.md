@@ -5,6 +5,7 @@ classes: wide
 
 ---
 # Tentative Schedule
+
 | Time       | Title               | Speaker | Type        |
 |------------|---------------------|---------|-------------|
 | 9:00-9:20  | Contributed Talk #1 | TBD     | Contributed |
