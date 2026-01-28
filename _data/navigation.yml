@@ -38,6 +38,6 @@ main:
 sidebar-main:
   - title: ""
     children:
-      - title: "June 3, 2025"
+      - title: "June 1 or 2, 2025"
       - title: "Schedule"
-        url: /sinm2025/
+        url: /sinm2026/
