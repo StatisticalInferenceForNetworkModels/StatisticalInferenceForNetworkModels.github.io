@@ -2,9 +2,13 @@ categories:
   - heading: Invited Speakers
     speakers:
 
+    - name: Yinqiu He
+      affiliation: University of Wisconsin
+      url: https://www.yinqiuhe.com/
     - name: Mark Newman
       affiliation: University of Michigan
       url: https://public.websites.umich.edu/~mejn/
+    - name: Alice Patania
+      affiliation: University of Vermont
+      url: https://alpatania.github.io/
     - affiliation: TBD!
-
-
