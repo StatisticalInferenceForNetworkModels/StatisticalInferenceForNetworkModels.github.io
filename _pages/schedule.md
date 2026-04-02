@@ -13,8 +13,8 @@ classes: wide
 | 9:40-10:00 | Variational Regularized Bilevel Estimation for Exponential Random Graph Models | Yoon Choi   | Contributed |
 | 10:00-10:20| Contributed Talk | (Awaiting Confirmation)     | Contributed |
 | **10:30-11:00** | **Coffee Break** |      |             |
-| 11:00-11:45| Invited Talk     | Mark Newman     | Invited     |
-| 11:45-12:30| Invited Talk     | Alice Patania     | Invited     |
+| 11:00-11:45| Invited Talk: Mark Newman (University of Michigan)     | Mark Newman     | Invited     |
+| 11:45-12:30| Invited Talk: Alice Patania (University of Vermont)     | Alice Patania     | Invited     |
 | **12:30-14:30** | **Lunch Break** |      |             |
 | 14:30-14:50| When Text Becomes Network: Stability, Uncertainty, and the Construction of Social Graphs | Lorenzo Emer     | Contributed |
 | 14:50-15:10| Estimating Matchup Effects in Competition Networks with Application to Pitcher-Batter Matchups in Baseball | Kevin S. Xu     | Contributed |
@@ -22,5 +22,5 @@ classes: wide
 | 15:30-15:50| Bayesian Ordinal Probit Modeling of Multiview Directed Social Networks | Neil A. Spencer     | Contributed |
 | **16:00-16:30** | **Coffee Break** |      |             |
 | 16:30-16:50| Contributed Talk | (Awaiting Confirmation)  | Contributed |
-| 16:50-17:35| Invited Talk     | Yinqiu He     | Invited     |
+| 16:50-17:35| Invited Talk: Yinqiu He (University of Wisconsin)     | Yinqiu He     | Invited     |
 
