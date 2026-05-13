@@ -21,6 +21,6 @@ classes: wide
 | 15:10-15:30| Statistical models for subject-space distances in psychometric questionnaires | Arianna Armanetti  | Contributed |
 | 15:30-15:50| Bayesian Ordinal Probit Modeling of Multiview Directed Social Networks | Neil A. Spencer     | Contributed |
 | **16:00-16:30** | **Coffee Break** |      |             |
-| 16:30-16:50| Contributed Talk | (Awaiting Confirmation)   | Contributed |
-| 16:50-17:35| Invited Talk: Yinqiu He (University of Wisconsin)     | Yinqiu He     | Invited     |
+| 16:30-17:15| Invited Talk: Yinqiu He (University of Wisconsin)     | Yinqiu He     | Invited     |
+| 17:15-18:00| Invited Talk: Yuqi Gu (Columbia University) | Yuqi Gu   | Invited |
 
